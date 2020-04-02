@@ -3,7 +3,7 @@
    https://framework.wsoum.ml/wsoumicons/
   
    Redistribution Font Awesome Library
-   https://fontawesome.com/icons?m=free
+   https://fontawesome.com/icons
   
    Copyright (c) Wsoum and Font Awesome
    Released under the MIT license
